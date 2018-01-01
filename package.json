@@ -1,0 +1,27 @@
+{
+  "name": "header-microservice",
+  "version": "1.0.0",
+  "description": "Get the IP address, language and OS for my browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NadaSadek/request-header-parser-microservice.git"
+  },
+  "author": "Nada Sadek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NadaSadek/request-header-parser-microservice/issues"
+  },
+  "homepage": "https://github.com/NadaSadek/request-header-parser-microservice#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "node": "^9.3.0"
+  },
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}
