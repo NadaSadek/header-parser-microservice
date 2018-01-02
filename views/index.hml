@@ -1,3 +1,8 @@
 <html>
-<head><h1>Get My Browser Info </h1></head>
+	<head>
+		<h1>Get My Browser Info </h1>
+	</head>
+	<body>
+		<h2> use /myinfo/ to get the ip address, os and language! </h2>
+	</body>
 </html>
